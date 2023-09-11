@@ -1,0 +1,1 @@
+print("ola,galerinha do gral")
